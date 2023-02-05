@@ -5,7 +5,6 @@ Python ofcourse
 
 in cmd : pip install -r requirements.txt
 
-Discord promotion code redeemer
 
 -Things needed:
 
